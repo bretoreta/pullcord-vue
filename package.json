@@ -1,9 +1,17 @@
 {
   "name": "pullcord-vue",
   "version": "0.1.0",
-  "description": "a ceiling pull-cord for vue with a real rope",
+  "description": "A ceiling pull-cord for Vue 3 with a real verlet rope. Port of mortspace/pullcord.",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bretoreta/pullcord-vue.git"
+  },
+  "homepage": "https://github.com/bretoreta/pullcord-vue#readme",
+  "bugs": {
+    "url": "https://github.com/bretoreta/pullcord-vue/issues"
+  },
   "main": "./dist/index.js",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
