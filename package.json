@@ -17,6 +17,21 @@
   "sideEffects": [
     "**/*.css"
   ],
+  "keywords": [
+    "vue",
+    "vue3",
+    "pullcord",
+    "pull-cord",
+    "rope",
+    "verlet",
+    "physics",
+    "theme-toggle",
+    "component",
+    "ui"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],
